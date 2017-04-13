@@ -1,7 +1,7 @@
 // This script will pull down your fitbit data
 // and push it into a spreadsheet
 // Units are metric (kg, km) unless otherwise noted
-// Suggestions/comments/improvements?  Let me know loghound@gmail.com
+// Suggestions/comments/improvements?  Let me know 
 //
 //
 /**** Length of time to look at.
